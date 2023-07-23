@@ -11,6 +11,6 @@ public class firstConflictTest {
     @Test
     void conflictTest(){
         Configuration.pageLoadStrategy = "eager";
-
+        //TODO Implement!!!
     }
 }
