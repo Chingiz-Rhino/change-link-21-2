@@ -11,6 +11,6 @@ public class firstConflictTest {
     @Test
     void conflictTest(){
         Configuration.pageLoadStrategy = "eager";
-        Selenide.open("https://ya.ru");
+        Selenide.open("https://yandex.ru");
     }
 }
